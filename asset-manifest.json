@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fake-Shop/static/css/main.84615026.chunk.css",
+    "main.js": "/Fake-Shop/static/js/main.4c90b24d.chunk.js",
+    "main.js.map": "/Fake-Shop/static/js/main.4c90b24d.chunk.js.map",
+    "runtime-main.js": "/Fake-Shop/static/js/runtime-main.44bd7141.js",
+    "runtime-main.js.map": "/Fake-Shop/static/js/runtime-main.44bd7141.js.map",
+    "static/js/2.aa2ecaae.chunk.js": "/Fake-Shop/static/js/2.aa2ecaae.chunk.js",
+    "static/js/2.aa2ecaae.chunk.js.map": "/Fake-Shop/static/js/2.aa2ecaae.chunk.js.map",
+    "index.html": "/Fake-Shop/index.html",
+    "static/css/main.84615026.chunk.css.map": "/Fake-Shop/static/css/main.84615026.chunk.css.map",
+    "static/js/2.aa2ecaae.chunk.js.LICENSE.txt": "/Fake-Shop/static/js/2.aa2ecaae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44bd7141.js",
+    "static/js/2.aa2ecaae.chunk.js",
+    "static/css/main.84615026.chunk.css",
+    "static/js/main.4c90b24d.chunk.js"
+  ]
+}
